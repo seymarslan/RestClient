@@ -1,0 +1,16 @@
+C:\Users\seyma\source\repos\RestclientBasic\bin\Debug\netcoreapp3.1\RestclientBasic.exe
+C:\Users\seyma\source\repos\RestclientBasic\bin\Debug\netcoreapp3.1\RestclientBasic.deps.json
+C:\Users\seyma\source\repos\RestclientBasic\bin\Debug\netcoreapp3.1\RestclientBasic.runtimeconfig.json
+C:\Users\seyma\source\repos\RestclientBasic\bin\Debug\netcoreapp3.1\RestclientBasic.runtimeconfig.dev.json
+C:\Users\seyma\source\repos\RestclientBasic\bin\Debug\netcoreapp3.1\RestclientBasic.dll
+C:\Users\seyma\source\repos\RestclientBasic\bin\Debug\netcoreapp3.1\RestclientBasic.pdb
+C:\Users\seyma\source\repos\RestclientBasic\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\seyma\source\repos\RestclientBasic\obj\Debug\netcoreapp3.1\RestclientBasic.csproj.AssemblyReference.cache
+C:\Users\seyma\source\repos\RestclientBasic\obj\Debug\netcoreapp3.1\RestclientBasic.AssemblyInfoInputs.cache
+C:\Users\seyma\source\repos\RestclientBasic\obj\Debug\netcoreapp3.1\RestclientBasic.AssemblyInfo.cs
+C:\Users\seyma\source\repos\RestclientBasic\obj\Debug\netcoreapp3.1\RestclientBasic.csproj.CoreCompileInputs.cache
+C:\Users\seyma\source\repos\RestclientBasic\obj\Debug\netcoreapp3.1\RestclientBasic.dll
+C:\Users\seyma\source\repos\RestclientBasic\obj\Debug\netcoreapp3.1\RestclientBasic.pdb
+C:\Users\seyma\source\repos\RestclientBasic\obj\Debug\netcoreapp3.1\RestclientBasic.genruntimeconfig.cache
+C:\Users\seyma\source\repos\RestclientBasic\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\seyma\source\repos\RestclientBasic\obj\Debug\netcoreapp3.1\RestclientBasic.GeneratedMSBuildEditorConfig.editorconfig

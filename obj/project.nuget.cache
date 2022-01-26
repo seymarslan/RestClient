@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "snBEUJYce7P1ppMYTjogEluymDbItplULKiGOt5isF6GANaLF5Xt6C9CnkF9PvHXUkhZ2Kmg+6zIMkafCqgA+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\seyma\\source\\repos\\RestclientBasic\\RestclientBasic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\seyma\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\seyma\\.nuget\\packages\\restsharp\\106.12.0\\restsharp.106.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
